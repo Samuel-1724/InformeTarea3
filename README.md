@@ -7,16 +7,15 @@ Informe de Tarea 3: Circuito en Serie y Circuito en Paralelo.
 
 **2.1. Objetivo General:**
 
-Entender las leyes de Ohm y cómo se pueden usar en un circuito creado de pruebas. También Analizar las áreas de Energía y Potencia y cuál es su importancia en un circuito eléctrico.
+Definir los circuitos en serie y los circuitos en paralelo, para así poder saber su funcionamiento y diferenciarlos en un diagrama.
 
 **2.2. Objetivos Específicos:**
 
-- Comprender las relaciones entre corrientes, voltajes y resistencias aplicando las leyes de Ohm.
-- Definir las fórmulas comúnes para poder analizar un circuito con determinación.
-- Aprender los prefijos métricos que nos ayudaran a crear equivalencias entre las unidades para poder realizar de mejor manera los ejercicios.
-- Contrastar la Energía y la Potencia para poder sacar un concepto claro de cada tema y poder saber su rol en un circuito.
-- Entender las fórmulas de Watts que explican la relación de Energía y Potencia.
-- Notar como la Potencia ifluye en los componentes del circuito y en que casos lo hace. 
+- Entender qué componentes conforman el circuito en serie.
+- Entender qué componentes conforman el circuito en paralelo.
+- Comprender cómo funcionan el voltaje, resistencia y corriente en ambos circuitos.
+- Diferenciar su utilidad y saber en circuitos utilizarlos.
+- Obvservar cómo las leyes de Kirchhoff y Ohm son apicables también a las variables de circuitos. 
 
 **3. MARCO TEÓRICO**
 
@@ -456,3 +455,20 @@ R2 abierto
 (53). Abra el archivo P06-53 y determine el voltaje de fuente no especificado.
 
 VS =3.30 V
+
+**5. VIDEO**
+
+https://youtu.be/2B55BZIWAiU
+
+**6. CONCLUSIONES**
+
+En este último informe de tarea, vimos lo que es los circuitos en serie y los circuitos en paralelo. Comprendimos cómo funciona tanto la resistencia, la corriente y el voltaje en estos circuitos y las fórmulas que debemos aplicar para poder solucionar un sistema. De igual manera retomamos temas anteriores, como es las leyes de Kirchhoff y de Ohm; estas se reflejaron es estos nuevos capítulos, enseñandonos como pueden ser utilizadas también para los circuitos. 
+También completamos los ejercicos de ambos capítulos, para poder tener una mejor comprensión de los temas, utilizando lo enseñado en este informe. Logramos diferencias los atributos de los circuitos y cómo cada uno posee su propia modalidad. 
+
+**7. BIBLIOGRAFÍA**
+
+Etecé. (5 de Agosto de 2021). concepto. Obtenido de https://concepto.de/circuito-en-serie/
+
+McAllister, W. (3 de Septiembre de 2020). Khan Academy. Obtenido de https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
+
+Nat, S. (23 de Julio de 2012). EcuRed. Obtenido de https://www.ecured.cu/Circuito_en_paralelo
