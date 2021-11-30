@@ -250,3 +250,71 @@ La tabla 5-1 es correcta.
 [![4.png](https://i.postimg.cc/PrDwPQqZ/4.png)](https://postimg.cc/TpRwsmgY)
 
 Sí. Hay un corto entre la clavija 4 y el lado superior de R11.
+
+**4.2. Ejercicios del Capítulo 6**
+
+(1)	Muestre cómo conectar los resistores de la figura 6-65(a) en paralelo entre las terminales de una batería.
+
+[![1.png](https://i.postimg.cc/6QbSbvvW/1.png)](https://postimg.cc/GBYqH9KV)
+
+[![2.png](https://i.postimg.cc/NFqdZ7fc/2.png)](https://postimg.cc/47Pv9c9L)
+
+(3) Identifique los grupos de resistores que están en paralelo en la tarjeta de circuito impreso de doble cara mostrada en la figura 6-66.
+
+[![3.png](https://i.postimg.cc/L5337cbt/3.png)](https://postimg.cc/dZDCZxv3)
+
+100 V
+
+(7) ¿Cuál es el voltaje entre los extremos de cada resistor incluido en la figura 6-68 para cada posición del interruptor?
+
+Posicion A
+
+V1=15v, v2=0v,v3=15v,v4=0v
+
+POSICION B
+
+V1=15V,V2=0V,V3=15V,V4=0V
+
+POSICION C
+
+V1=15V,V2=15V,V3=0V,V4=0V
+
+(9) Se leen las siguientes corrientes en la misma dirección en un circuito de tres ramas en paralelo: 250 mA, 300 mA y 800 mA. ¿Cuál es el valor de la corriente que llega a la unión de las tres ramas?
+
+1.35 A
+
+(11) En el circuito de la figura 6-69, determine la resistencia en R2, R3 y R4.
+
+[![4.png](https://i.postimg.cc/QdHckKhk/4.png)](https://postimg.cc/5XWHf0H6)
+
+R2 = 22 Ω, R3 = 100 Ω, R4 = 33 Ω
+
+(13) La resistencia total de un circuito en paralelo es de 25 Ω. ¿Cuál es la corriente a través de un resistor de 220 Ω que forma parte de este circuito si la corriente total es de 100 mA?
+
+11.4 mA
+
+(15) Encuentre la resistencia total de cada uno de los siguientes grupos de resistores en paralelo:
+
+A)359 Ω, 
+
+B)25.6 Ω, 
+
+C) 819 Ω, 
+
+D)997 Ω,
+
+(17) ¿Cuál es la resistencia total de doce resistores de 6.8 k Ω, dispuestos en paralelo agrupamientos?
+
+567 Ω,
+
+(19) Encuentre la resistencia total de todo el circuito en paralelo descrito en el problema 18.
+
+24.6 Ω,
+
+(21) ¿Cuál es la resistencia total entre el punto A y tierra en la figura 6-72 en las siguientes condiciones?
+
+(a) SW1 y SW2 abiertos (b) SW1 cerrado, SW2 abierto
+
+(c) SW1 abierto, SW2 cerrado (d) SW1 y SW2 cerrados 
+
+[![5.png](https://i.postimg.cc/nLKrvnjG/5.png)](https://postimg.cc/xkC9QDPX)
