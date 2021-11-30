@@ -444,3 +444,15 @@ R8 abierto: R = 1.0 MÆ71.8 MÆ7680 k Ω, = 330 k Ω,
 (49) Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si existe un corto entre las puntas 3 y 4:
 
 (a)	1 y 2 (b) 2 y 3 (c) 2 y 4 (d) 1 y 4
+
+[![13.png](https://i.postimg.cc/Dzzjkwrx/13.png)](https://postimg.cc/9DvtyVN9)
+
+[![14.png](https://i.postimg.cc/8zYWck8K/14.png)](https://postimg.cc/XrwXDbYd)
+
+(51) Abra el archivo P06-51. Determine por medición si hay un resistor abierto y, de ser así, mencione cuál.
+
+R2 abierto
+
+(53). Abra el archivo P06-53 y determine el voltaje de fuente no especificado.
+
+VS =3.30 V
