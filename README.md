@@ -28,7 +28,7 @@ Se llama circuito en serie a un tipo de circuito eléctrico provisto de un únic
 
 [![Circuito-en-Serie.png](https://i.postimg.cc/8c8Rgwd4/Circuito-en-Serie.png)](https://postimg.cc/JDqDbN2H)
 
-**3.1.2. Aplicación de las leyes en Circuitos en Serie **
+**3.1.2. Aplicación de las leyes en Circuitos en Serie**
 
 [![Aplicaci-n-de-Leyes.png](https://i.postimg.cc/Ss49Zjm1/Aplicaci-n-de-Leyes.png)](https://postimg.cc/94xz0mRy)
 
@@ -210,3 +210,43 @@ V4R = 24 V,  V5R = 30 V
 V2 = 1.79 V, V3 = 1 V, V4 = 17.9 V
 
 (45) Diseñe un divisor de voltaje variable para producir un voltaje de salida ajustable desde un mínimo de 10 V hasta un máximo de 100 V dentro del _1% con una fuente de 1 a 120 V. El voltaje máximo debe ocurrir en el ajuste de resistencia máxima del potenciómetro, y el voltaje mínimo debe ocurrir en el ajuste de resistencia mínima (cero). La corriente tiene que ser de 10 mA
+
+[![67.png](https://i.postimg.cc/rwm2fQtR/67.png)](https://postimg.cc/vcpKB7hG)
+
+(47) ¿Cuál es la potencia total en el circuito de la figura 5-88? Use los resultados del problema 43.
+
+54.9 mW
+
+(49) Encuentre RT en la figura 5-89.
+
+12.5 M Ω
+
+Mediciones de voltaje
+
+(51) En la figura 5-90, determine el voltaje en cada punto con respecto a tierra.
+
+VA=100 V, VB=57.7 V, VC=15.2 V, VD=7.58 V
+
+(53) En la figura 5-91, determine el voltaje en cada punto con respecto a tierra.
+
+[![2.png](https://i.postimg.cc/fbm2C950/2.png)](https://postimg.cc/2qj783sz)
+
+VA=14.82 V, VB=12.97V, VC=12.64V, VD=9.34 V
+
+(55) Observe los medidores de la figura 5-92 y determine los tipos de fallas ocurridos en los circuitos y qué componentes fallaron.
+
+(a) R4 está abierto. 
+
+(b) Corto de A a B
+
+(57) La tabla 5-1 muestra los resultados de mediciones de resistencia efectuadas en la tarjeta de circuito impreso que aparece en la figura 5-93. ¿Son correctos estos resultados? Si no, identifique los posibles problemas
+
+[![3.png](https://i.postimg.cc/J0Gj6wmd/3.png)](https://postimg.cc/D43W0MSq)
+
+La tabla 5-1 es correcta.
+
+(59) Al examinar la tarjeta de circuito impreso de la figura 5-93, se miden 17.83 k Ω entre las puntas 1 y 2. Asimismo, 13.6 k Ω entre las puntas 2 y 4. ¿Indica esto un problema en la tarjeta de circuito impreso? De ser así, identifíquelo.
+
+[![4.png](https://i.postimg.cc/PrDwPQqZ/4.png)](https://postimg.cc/TpRwsmgY)
+
+Sí. Hay un corto entre la clavija 4 y el lado superior de R11.
