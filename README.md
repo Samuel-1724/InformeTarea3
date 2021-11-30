@@ -318,3 +318,129 @@ D)997 Ω,
 (c) SW1 abierto, SW2 cerrado (d) SW1 y SW2 cerrados 
 
 [![5.png](https://i.postimg.cc/nLKrvnjG/5.png)](https://postimg.cc/xkC9QDPX)
+
+A)510 k Ω, 
+
+B) 245 k Ω, 
+
+C) 510 k Ω, 
+
+D)193 k Ω,
+
+(23) Tres resistores de 33 Æ están conectados en paralelo con una fuente de 110 V. ¿Cuál es la corriente suministrada por la fuente?
+
+10 A
+
+(25) Muchos tipos de luces decorativas están conectados en paralelo. Si se conecta un juego de luces a una fuente de 110 V y si la resistencia en caliente del filamento de cada foco es de 2.2 k Ω,, ¿cuál es la corriente a través de cada foco? ¿Por qué es mejor tener estos focos en paralelo y no en serie?
+
+50 mA; Cuando un foco se funde, los demás focos permanecen encendidos.
+
+(27) ¿A qué valor mínimo se puede ajustar el reóstato de 100 Æ mostrado en la figura 6-75 antes de que el fusible de 0.5 A se funda?
+
+[![6.png](https://i.postimg.cc/xTy9x6T9/6.png)](https://postimg.cc/4myCnb90)
+
+[![7.png](https://i.postimg.cc/qqcHF7r1/7.png)](https://postimg.cc/V0Nhrmdt)
+
+53.7 Æ
+
+(29) Encuentre los valores de las cantidades no especificadas en la figura 6-77.
+
+I2 = 167 mA, I3 = 83.3 mA, IT = 300 mA,
+
+R1 = 2 k Ω,, R2 = 600 Æ
+
+[![8.png](https://i.postimg.cc/TP5SSPqn/8.png)](https://postimg.cc/qt0j64F7)
+
+(31) Determine la corriente a través del resistor para cada una de las posiciones de interruptor calibradas en la figura 6-79.
+
+[![9.png](https://i.postimg.cc/bwWVQhcr/9.png)](https://postimg.cc/xXGP2BdV)
+
+Posición A: 2.25 mA
+
+Posición B: 4.75 mA
+
+Posición C: 7 mA
+
+(33) Determine la corriente en cada uno de los divisores de corriente mostrados en la figura 6-81.
+
+[![10.png](https://i.postimg.cc/FKbb75h2/10.png)](https://postimg.cc/HJx8hNc2)
+
+A)	I1 = 6.88 mA, I2 = 3.12 Ma
+
+B)	I1 = 5.25 mA, I2 = 2.39 mA, I3 = 1.59 mA, I4 = 772 mA
+
+(35) Determine todos los valores de resistor en la figura 6-83. RT _ 773 Æ.
+
+[![11.png](https://i.postimg.cc/0NCm9Yfv/11.png)](https://postimg.cc/wt73VsZ4)
+
+R1 = 3.3 k Ω,, R2 = 1.8 k Ω,, R3 = 5.6 k Ω,, R4 = 3.9 k Ω,
+
+(37) En el mercado están disponibles resistores en derivación especialmente diseñados para detectar caídas de voltaje de 50 mV en aplicaciones de medición de corrientes altas. Se conecta un voltímetro de 50 mV, 10 k Ω, de escala completa entre la derivación para realizar la medición.
+
+(a) ¿Qué valor de resistencia en derivación se requiere para utilizar un medidor de 50 mV en una aplicación de medición de 50 A?
+
+1 m Ω,
+
+(b) ¿Cuánta corriente circula por el medidor?
+
+5 mA
+
+(39) Determine la potencia total en cada uno de los circuitos de la figura 6-81.
+
+A)68.8 Mw
+
+b) 52.5 mW
+
+(41) Encuentre los valores de las cantidades no especificadas en la figura 6-84.
+
+P1 = 1.25 W, I2 = 75 mA, I1 = 125 mA, VS = 10 V, R1 = 80 Æ, R2 = 133 Æ
+
+(43) Si en el problema 40 se funde uno de los focos, ¿cuánta corriente circulará a través de cada foco restante? ¿Cuál será la corriente total?
+
+682 mA, 3.41 A
+
+(45) ¿Qué está mal con el circuito de la figura 6-86?
+
+[![12.png](https://i.postimg.cc/qMXCscP3/12.png)](https://postimg.cc/MvHTxBK6)
+
+El resistor de 8.2 k Ω, está abierto.
+
+(47) Desarrolle un procedimiento de prueba para revisar la tarjeta de circuito mostrada en la figura 6-87 y asegurarse de que no hay componentes abiertos. Debe realizar esta prueba sin quitar el componente de la tarjeta. Describa el procedimiento en un formato detallado paso a paso. Conectar el ohmmetro entre las siguientes clavijas:
+
+Clavijas 1-2
+
+Lecturas:
+
+R= 1.0 kÆ73.3 k Ω, = 767 Æ
+
+R1 abierto: R = 3.3 K Ω,
+
+R2 abierto: R = 1.0 k Ω,
+
+Clavijas 3-4
+
+Lecturas:
+
+R = 270 Æ7390 Æ = 159.5 Ω,
+
+R3 abierto: R = 390 Ω,
+
+R4 abierto: R = 270 Ω,
+
+Clavijas 5-6
+
+Lectura correcta:
+
+R = 1.0 MÆ71.8 MÆ7680 kÆ7510 k Ω, = 201 k Ω,
+
+R5 abierto: R = 1.8 MÆ7680 kÆ7510 k Ω, = 251 k Ω,
+
+R6 abierto: R = 1.0 MÆ7680 kÆ7510 k Ω, = 226 k Ω,
+
+R7 abierto: R = 1.0 MÆ71.8 MÆ7510 k Ω, = 284 k Ω,
+
+R8 abierto: R = 1.0 MÆ71.8 MÆ7680 k Ω, = 330 k Ω,
+
+(49) Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si existe un corto entre las puntas 3 y 4:
+
+(a)	1 y 2 (b) 2 y 3 (c) 2 y 4 (d) 1 y 4
