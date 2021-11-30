@@ -31,3 +31,11 @@ Se llama circuito en serie a un tipo de circuito eléctrico provisto de un únic
 **3.1.2. Aplicación de las leyes en Circuitos en Serie **
 
 [![Aplicaci-n-de-Leyes.png](https://i.postimg.cc/Ss49Zjm1/Aplicaci-n-de-Leyes.png)](https://postimg.cc/94xz0mRy)
+
+**3.2. Capítulo 6: Circuitos en Paralelo**
+
+**3.1.1. Resistencia, Voltaje y Corriente en Circuitos en Paralelo**
+
+Un circuito en paralelo es un circuito que tiene dos o más caminos independientes desde la fuente de tensión, pasando a través de elementos del circuito hasta regresar nuevamente a la fuente. En este tipo de circuito dos o más elementos están conectados entre el mismo par de nodos.
+
+[![Circuito-en-Paralelo.png](https://i.postimg.cc/fRS4mk96/Circuito-en-Paralelo.png)](https://postimg.cc/w1zbdqFV)
